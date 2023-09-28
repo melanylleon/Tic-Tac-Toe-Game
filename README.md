@@ -1,4 +1,9 @@
 # Tic Tac Toe Game
+![GitHub contributors](https://img.shields.io/github/contributors/melanylleon/Tic-Tac-Toe-Game)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/melanylleon/Tic-Tac-Toe-Game)
+![GitHub issues](https://img.shields.io/github/issues/melanylleon/Tic-Tac-Toe-Game)
+![GitHub](https://img.shields.io/github/license/melanylleon/Tic-Tac-Toe-Game)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 ##  :star2: About the Project
 This project is an implementation of the Tic Tac Toe game. Two players pick a position on the game board until either one picks three positions either in a diagonal, vertical, or horizontal row. The first player to pick 3 positions in a row wins the game.
